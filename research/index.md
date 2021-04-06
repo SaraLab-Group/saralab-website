@@ -8,7 +8,7 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
 {% capture content %}
 {% include resource-list.html group="research" size="medium" %}
 {% endcapture %}
-{% include centerer.html html=content %}
+{% include centerer.html content=content %}
 <!-- section break -->
 
 {% include card-search.html subject="papers" %}
