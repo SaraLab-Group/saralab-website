@@ -26,12 +26,12 @@ We are insterested in developing new optical imaging techniquesand novel image a
 <!-- section break -->
 
 ## Alumni
-{% capture contents %}
-{%include team-list.html role="master" group="alumn"%}
-{%include team-list.html role="tech" group="alumn"%}
-{%include team-list.html role="undergrad" group="alumn"%}
+{% capture alumni %}
+{%include team-list.html role="master" group="alumn" mini=true%}
+{%include team-list.html role="tech" group="alumn" mini=true%}
+{%include team-list.html role="undergrad" group="alumn" mini=true %}
 {% endcapture %}
-{% include centerer.html contents=contents %}
+{% include centerer.html contents=alumni %}
 
 <!-- section break -->
 
@@ -43,7 +43,7 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   fit="false"
 
-  image1="images/nsf.jpg"
+  image1="images/funding/nsf.jpg"
   link1="https://www.nsf.gov/policies/logos.jsp"
   tooltip1="National Science Foundation"
 
