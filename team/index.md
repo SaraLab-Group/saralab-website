@@ -23,15 +23,16 @@ We are insterested in developing new optical imaging techniquesand novel image a
   link="join"
   button=true
 %}{:.center}
+<!-- section break -->
 
-<!-- section break -->
-# Alumni
-<!-- section break -->
+## Alumni
 {% capture contents %}
 {%include team-list.html role="master" group="alumn"%}
 {%include team-list.html role="tech" group="alumn"%}
 {%include team-list.html role="undergrad" group="alumn"%}
 {% endcapture %}
+{% include centerer.html contents=contents %}
+
 <!-- section break -->
 
 ## Funding
