@@ -7,8 +7,8 @@ title: Pictures
 <!-- section break -->
 {%
   include figure.html
-  image="images/group-photo.jpg"
-  caption="The team at our annual Christmas party, 2025"
+  image="images/blog/nanofab/nanofab1.jpg"
+  caption="Gustav and Ed making gratings at UCSB Nanofab, 2018"
   link="team"
   width="400px"
 %}
@@ -16,8 +16,8 @@ title: Pictures
 ### Ski Trip 2019
 {%
   include figure.html
-  image="images/group-photo.jpg"
-  caption="The team at our annual Christmas party, 2025"
+  image="images/trips/skitrip_2019.jpg"
+  caption="Team Ski-trip, 2019"
   link="team"
   width="400px"
 %}
@@ -25,8 +25,8 @@ title: Pictures
 ### UCSB Nanofab 2018
 {%
   include figure.html
-  image="images/group-photo.jpg"
-  caption="The team at our annual Christmas party, 2025"
+  image="images/blog/nanofab/nanofab1.jpg"
+  caption="Gustav and Ed making gratings at UCSB Nanofab, 2018"
   link="team"
   width="400px"
 %}
