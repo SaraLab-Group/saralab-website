@@ -1,23 +1,17 @@
 - title: Aberration Corrected Multifocus Microscopy with Camera Array (M25)
   group: research
   image: images/research/m25.jpg
-  description: This project explores the recording of 3D volumes fast and simultaneously by capturing 25 focal planes based on a novel design of an aberration-corrected multifocus microscopy (MFM). Potential applications include: neuron dynamics, embryo development, chromatin structure imaging in organisms with thin or transparent tissue (C.elegans, Drosophila larvae, hydra) or near the surface (mouse cortex, lamprey spinal cord, zebrafish)
+  description: "This project explores the recording of 3D volumes fast and simultaneously by capturing 25 focal planes based on a novel design of an aberration-corrected multifocus microscopy (MFM). Potential applications include: neuron dynamics, embryo development, chromatin structure imaging in organisms with thin or transparent tissue (C.elegans, Drosophila larvae, hydra) or near the surface (mouse cortex, lamprey spinal cord, zebrafish)"
   link: ""
   
 - title: MFM-SIM
   group: research
   image: images/research/mfm-sim.jpg
-  description: This imaging modality alleviates the problem of insufficient volumetric acquisition speed in super-resolution biological imaging. Combining structured illumination microscopy (SIM) wide-field super-resolution technique with multifocus (MFM) volumetric acquisition speed one can image biological specimens beyond the classical diffraction limit minimizing photoxicity.
+  description: "This imaging modality alleviates the problem of insufficient volumetric acquisition speed in super-resolution biological imaging. Combining structured illumination microscopy (SIM) wide-field super-resolution technique with multifocus (MFM) volumetric acquisition speed one can image biological specimens beyond the classical diffraction limit minimizing photoxicity."
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5611928/
   
 - title: Image Analysis and Denoising
   group: research
   image: images/research/denoise.png
-  description: One open challenge in microscopy and imaging systems is image reconstruction and denoising of low-light and contrast datasets. The goal of denoising a dataset is to estimate the original data from an acquired noisy dataset by detecting and supressing the noise in the data.
+  description: "One open challenge in microscopy and imaging systems is image reconstruction and denoising of low-light and contrast datasets. The goal of denoising a dataset is to estimate the original data from an acquired noisy dataset by detecting and supressing the noise in the data."
   
-- title: Some tool
-  group: featured
-  image: images/some-image.jpg
-  link: https://some-link.org/
-  description: A description of the tool.
-  repo: your-lab/some-repo
