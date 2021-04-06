@@ -19,7 +19,7 @@ title: Pictures
 %}
 {%
   include figure.html
-  image="images/blog/nanofab/nanofab1.jpg"
+  image="images/blog/nanofab/nanofab1.png"
   caption="Gustav and Ed making gratings at UCSB Nanofab, 2018"
   link="team"
   width="400px"
