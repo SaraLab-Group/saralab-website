@@ -2,8 +2,6 @@
 title: Pictures
 ---
 
-#Lab Pictures
-
 <!-- section break -->
 {%
   include figure.html
@@ -12,8 +10,6 @@ title: Pictures
   link="team"
   width="400px"
 %}
-
-### Ski Trip 2019
 {%
   include figure.html
   image="images/trips/skitrip_2019.jpg"
@@ -21,8 +17,6 @@ title: Pictures
   link="team"
   width="400px"
 %}
-
-### UCSB Nanofab 2018
 {%
   include figure.html
   image="images/blog/nanofab/nanofab1.jpg"
