@@ -1,24 +1,3 @@
-- title: Cool Software
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- title: Cool Dataset
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- title: Cool Tool
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
 - title: Aberration Corrected Multifocus Microscopy with Camera Array (M25)
   group: research
   image: images/research/m25.jpg
@@ -32,11 +11,6 @@
   
 - title: Image Analysis and Denoising
   group: research
+  image: images/research/denoise.png
   description: One open challenge in microscopy and imaging systems is image reconstruction and denoising of low-light and contrast datasets. The goal of denoising a dataset is to estimate the original data from an acquired noisy dataset by detecting and supressing the noise in the data.
-
-- title: Cool Web Server
-  group: legacy
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  
