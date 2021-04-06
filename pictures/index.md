@@ -1,5 +1,5 @@
 ---
-title: Lab Pictures
+title: Pictures
 ---
 
 #Lab Pictures
