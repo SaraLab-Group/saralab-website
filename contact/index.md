@@ -17,7 +17,7 @@ We are located on the 2nd floor of the Baskin Engineering Building.
 
 ### Email
 
-[sara[at]ucsc.edu](mailto:sara@ucsc.edu)
+[sara[at]ucsc[dot]edu](mailto:sara@ucsc.edu)
 {:.center}
 
 ### Location
