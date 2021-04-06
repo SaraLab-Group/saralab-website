@@ -35,7 +35,7 @@ Take a look at our publishe resources for building microscopes and other tools!
 
 {%
   include feature.html
-  image="images/code.jpg"
+  image="images/code.jpeg"
   link="resources"
   title="Our Resources"
   text=text
