@@ -8,7 +8,7 @@ We are located on the 2nd floor of the Baskin Engineering Building.
 
 {%
   include figure.html
-  image="images/baskin.jfif"
+  image="images/baskin.jpg"
   width="75%"
   caption="UCSC Redwood Forest"
 %}
