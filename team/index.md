@@ -27,9 +27,10 @@ We are insterested in developing new optical imaging techniquesand novel image a
 
 ## Alumni
 {% capture alumni %}
-{%include team-list.html role="master" group="alumn" mini=true%}
-{%include team-list.html role="tech" group="alumn" mini=true%}
-{%include team-list.html role="undergrad" group="alumn" mini=true %}
+{%include team-list.html role="phd" group="alumni" mini=true%}
+{%include team-list.html role="master" group="alumni" mini=true%}
+{%include team-list.html role="tech" group="alumni" mini=true%}
+{%include team-list.html role="undergrad" group="alumni" mini=true %}
 {% endcapture %}
 {% include centerer.html contents=alumni %}
 
