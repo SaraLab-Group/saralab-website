@@ -60,4 +60,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- section full -->
 
-{% include banner.html image="images/m25_banner.jpg" %}
+{% include banner.html image="images/banner2.jpg" %}
