@@ -1,63 +1,77 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41566-020-0656-3
+  title: Super-resolution microscopy on a photonic chip
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Sara Abrahamsson
+  publisher: Nature Photonics
+  date: '2020-06-26'
+  link: https://doi.org/gg4q73
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41566-020-0656-3/MediaObjects/41566_2020_656_Fig2_HTML.png?as=webp
   tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+  - SIM
+  - photonic chip
   extra-links:
   - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+    link: https://www.nature.com/articles/s41566-020-0656-3
+- id: doi:10.1117/12.2550979
+  title: 25 plane multifocus microscopy for fast and live 3D imaging (Conference Presentation)
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Eduardo Hirata Miyasaki
+  - Gustav M. Pettersson
+  - Khant Zaw
+  - Demis D. John
+  - Brian Thibeault
+  - Brandon Lynch
+  - Juliana Hernandez
+  - Sara Abrahamsson
+  publisher: SPIE-Intl Soc Optical Eng
+  date: '2020-03-09'
+  link: https://doi.org/gjnmsx
+  image: https://www.spiedigitallibrary.org/images/Global/SPIE_DL_Logo_Nav.png
+  tags:
+  - multifocus
+  - fluorescence microscopy
+  - Fourier Optics
   extra-links:
-  - type: preprint
+  - type: Source
     link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+- id: doi:10.1109/ICCPHOT.2019.8747331
+  title: Miniature 3D Microscope and Reflectometer for Space Exploration
+  authors:
+  - Gustav M. Pettersson
+  - Michael Dille
+  - Sara Abrahamsson
+  - Uland Wong
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2019-05-01'
+  link: https://doi.org/gh94b9
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8743501/8747322/8747331/pette2-p8-pette-small.gif
+  tags:
+  - Microscopy
+  - 3D Display
+  extra-links:
+  - type: Source
+    link: https://ieeexplore.ieee.org/abstract/document/8747331
+- id: doi:10.1364/CLEO_AT.2020.JW3P.4
+  title: Camera-Array 25-Plane Multifocus Microscope For Ultrafast Live 3d Imaging
+  authors:
+  - Eduardo Hirata-Miyasaki
+  - Gustav M. Pettersson
+  - Khant Zaw
+  - Demis D. John
+  - Brian Thibeault
+  - Brandon Lynch
+  - Juliana Hernandez
+  - Sara Abrahamsson
+  publisher: The Optical Society
+  date: '2020-01-01'
+  link: https://doi.org/gjnmsz
+  image: https://www.osapublishing.org/abstract.cfm?uri=CLEO_AT-2020-JW3P.4
+  tags:
+  - multifocus
+  - fluorescence microscopy
+  - Fourier Optics
+  extra-links:
+  - type: Source
+    link: https://www.osapublishing.org/abstract.cfm?uri=CLEO_AT-2020-JW3P.4
