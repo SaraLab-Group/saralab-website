@@ -10,6 +10,7 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
 {% capture contents %}
 {% include resource-list.html group="research" size="small" %}
 {% endcapture %}
+
 {% include centerer.html contents=contents %}
 
 <!-- section break -->
