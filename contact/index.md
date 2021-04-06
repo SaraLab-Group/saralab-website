@@ -11,7 +11,7 @@ We are located on the 2nd floor of the Baskin Engineering Building.
   include figure.html
   image="images/ucsc.png"
   width="75%"
-  caption="The Center for Wit and Sagacity"
+  caption="UCSC Redwood Forest"
 %}
 
 <!-- section break -->
