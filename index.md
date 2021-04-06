@@ -2,12 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Optical Microscopy and Bioelectronics Development Laboratory
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
-{% include big-link.html icon="fab fa-github" text="See the template on GitHub" link="https://github.com/greenelab/lab-website-template" %}{% include big-link.html icon="fas fa-book" text="See the documentation" link="https://github.com/greenelab/lab-website-template/wiki" %}{:.center}
+New discovery in Biology and Medicine is strongly driven by new possibilities to visualize the processes of life. To see new things, the SaraLab lab invents and custom builds new types of optical elements and imaging systems. Specific problems in Biology demand that we push technology to the limit in terms of both spatial and temporal resolution. We focus our work on harnessing the power of diffractive Fourier optics in microscopy. This involves design and hands-on nanofabrication of diffractive optics elements for simultaneous 3D imaging using Multifocus microscopy (Abrahamsson et al. Nat. Methods 2013) and super-resolution microscopy (Abrahamsson et al. BOE 2017).
 
 <!-- section break -->
 
@@ -30,8 +27,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Take a look at our publishe resources for building microscopes and other tools!
 
 [See our resources &nbsp;→](resources)
 {:.center}
@@ -39,7 +35,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/code.jpg"
   link="resources"
   title="Our Resources"
   text=text
@@ -64,4 +60,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- section full -->
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/m25_banner.jpg" %}
