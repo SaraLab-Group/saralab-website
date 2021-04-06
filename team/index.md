@@ -24,9 +24,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 <!-- section dark -->
 <!-- section background images/banner.jpg -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+We are insterested in developing new optical imaging techniquesand novel image analysis tools in collaboration. We are always in the lookout for new ideas.
 {%
   include big-link.html
   icon="fas fa-hands-helping"
@@ -36,6 +34,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}{:.center}
 
 <!-- section break -->
+
+
 
 ## Funding
 
@@ -53,20 +53,4 @@ Our work is made possible by funding from several organizations.
   image2="images/photo.jpg"
   link2="https://nasa.gov/"
   tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
 %}
