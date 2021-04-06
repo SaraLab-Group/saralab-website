@@ -2,7 +2,7 @@
 title: Gustav Pettersson
 image: images/members/gustav.jpg
 role: master
-group: alum
+group: alumni
 aliases:
   - G.Pettersson
 website: https://scholar.google.com/citations?user=RbNZWloAAAAJ&hl=en
