@@ -22,14 +22,14 @@ nav:
 
 # site social media
 email: jane.smith@your-lab.com
-google-scholar: Jane Smith
-github: your-lab
-twitter: YourLabHandle
+google-scholar: Sara Abrahamsson
+github: saraLab
+twitter: @FourierPower
 instagram: YourLabHandle
 youtube: YourLabChannel
 
 # base directory where site is hosted
-baseurl: /lab-website-template
+baseurl: /saralab-website
 
 # default front matter parameters for markdown files
 defaults:
