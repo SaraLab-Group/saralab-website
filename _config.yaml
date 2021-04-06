@@ -1,5 +1,5 @@
 # site settings
-title: Lab Website Template
+title: SaraLab Group
 logo: images/logo.svg
 
 # page defaults
@@ -21,12 +21,12 @@ nav:
     tooltip: Email, address, and location
 
 # site social media
-email: jane.smith@your-lab.com
+email: sara@ucsc.edu
 google-scholar: Sara Abrahamsson
-github: saralab
-twitter: ""
-instagram: YourLabHandle
-youtube: YourLabChannel
+github: ""
+twitter: @FourierPower
+instagram: 
+youtube: 
 
 # base directory where site is hosted
 baseurl: /saralab-website
