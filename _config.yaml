@@ -10,12 +10,14 @@ footer: images/m25_banner.jpg
 # site nav bar
 nav:
   - link: research
-    tooltip: Published works
+    tooltip: Published & Conference works
   - link: resources
     tooltip: Tools, datasets, and more
   - link: team
     tooltip: About our team
-  - link: blog
+  - link: pictures
+    tooltip: lab pictures
+  - link: News
     tooltip: Musings and miscellany
   - link: contact
     tooltip: Email, address, and location
