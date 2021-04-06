@@ -4,12 +4,12 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Baskin School of Engineering](https://www.soe.ucsc.edu/departments/electrical-computer-engineering)
+We are located on the 2nd floor of the Baskin Engineering Building.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/ucsc.jpg"
   width="75%"
   caption="The Center for Wit and Sagacity"
 %}
@@ -18,25 +18,22 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### Email
 
-[scrooge@mcduck.com](mailto:scrooge@mcduck.com)
+[sara[at]ucsc.edu](mailto:sara@ucsc.edu)
 {:.center}
 
-### Phone
+### Location
 
-[(555) 867-5309](tel:+1-555-867-5309)
+1156 High Street
+Baskin School of Engineering
+Santa Cruz, CA 95064
+United States of America
 {:.center}
 
-### Address
-
-{% comment %}
-Tip: Put both a mailing address for mail/deliveries, AND a navigation-friendly
-address so people can find their way to you easily.
-{% endcomment %}
-
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada  
+[<i class="fas fa-external-link-alt"></i> on Google Maps]
+(https://goo.gl/maps/52wYmStW6P8LRsnn8)
 {:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828)
+[Campus Maps](https://www.ucsc.edu/visit/maps-directions.html)
 {:.center}
+
+
