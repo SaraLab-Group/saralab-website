@@ -28,13 +28,13 @@ We are insterested in developing new optical imaging techniquesand novel image a
 # Alumni
 <!-- section break -->
 {% capture contents %}
-{%include team-list.html role="phd group="alumni"%}
+{%include team-list.html role="master" group="alumn"%}
+{%include team-list.html role="tech" group="alumn"%}
+{%include team-list.html role="undergrad" group="alumn"%}
 {% endcapture %}
 <!-- section break -->
 
-
 ## Funding
-
 Our work is made possible by funding from several organizations.
 {:.center}
 
@@ -42,11 +42,8 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   fit="false"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/nsf.jpg"
+  link1="https://www.nsf.gov/policies/logos.jsp"
+  tooltip1="National Science Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
 %}
