@@ -2,6 +2,7 @@
   group: research
   image: images/research/m25.jpg
   description: This project explores the recording of 3D volumes fast and simultaneously by capturing 25 focal planes based on a novel design of an aberration-corrected multifocus microscopy (MFM). Potential applications include: neuron dynamics, embryo development, chromatin structure imaging in organisms with thin or transparent tissue (C.elegans, Drosophila larvae, hydra) or near the surface (mouse cortex, lamprey spinal cord, zebrafish)
+  link: ""
   
 - title: MFM-SIM
   group: research
