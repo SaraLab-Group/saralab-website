@@ -14,9 +14,7 @@ We are located on the 2nd floor of the Baskin Engineering Building.
 %}
 
 <!-- section break -->
-
 ### Email
-
 [sara[at]ucsc[dot]edu](mailto:sara@ucsc.edu)
 {:.center}
 
@@ -27,7 +25,7 @@ Santa Cruz,CA 95064
 United States of America
 {:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://goo.gl/maps/52wYmStW6P8LRsnn8)
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://goo.gl/maps/6GonaVEM3Uf83qVn7)
 {:.center}
 
 ### Campus Map
