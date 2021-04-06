@@ -2,7 +2,7 @@
 title: Brandon Lynch
 image: images/members/brandon.jpg
 role: undergrad
-group: alum
+group: alumni
 aliases:
   - B.Lynch
 website: https://www.linkedin.com/in/brandon-lynch-155b08132/
