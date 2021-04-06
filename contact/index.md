@@ -1,7 +1,6 @@
 ---
 title: Contact
 ---
-
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Baskin School of Engineering](https://www.soe.ucsc.edu/departments/electrical-computer-engineering)
