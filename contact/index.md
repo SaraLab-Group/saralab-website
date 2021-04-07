@@ -3,8 +3,9 @@ title: Contact
 ---
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Baskin School of Engineering](https://www.soe.ucsc.edu/departments/electrical-computer-engineering)
+Our lab is part of the [Baskin School of Engineering](https://www.soe.ucsc.edu/departments/electrical-computer-engineering).  
 We are located on the 2nd floor of the Baskin Engineering Building.
+{:.center}
 
 {%
   include figure.html
@@ -12,6 +13,7 @@ We are located on the 2nd floor of the Baskin Engineering Building.
   width="75%"
   caption="Baskin Engineering Building"
 %}
+{:.center}
 
 <!-- section break -->
 ### Email
