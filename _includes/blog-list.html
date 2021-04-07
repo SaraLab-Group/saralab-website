@@ -11,11 +11,9 @@
 
 {% for post in yeargroup.items %}
 
-{% if include.url %}
+
 [**{{ post.title }}**]({{ include.url }})
-{% else %}
-[**{{ post.title }}**]({{ post.url | relative_url }})
-{% endif %}
+
 
 {% include post-info.html post=post %}
 
