@@ -25,15 +25,3 @@
   extra-links:
     - type: Source
       link: https://ieeexplore.ieee.org/abstract/document/8747331
-
-{% comment %}
-- id: doi:10.1364/CLEO_AT.2020.JW3P.4
-  image: https://www.osapublishing.org/abstract.cfm?uri=CLEO_AT-2020-JW3P.4
-  tags:
-    - multifocus
-    - fluorescence microscopy
-    - Fourier Optics
-  extra-links:
-    - type: Source
-      link: https://www.osapublishing.org/abstract.cfm?uri=CLEO_AT-2020-JW3P.4
-{% endcomment %}
