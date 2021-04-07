@@ -15,8 +15,6 @@ nav:
     tooltip: Tools, datasets, and more
   - link: team
     tooltip: About our team
-  - link: pictures
-    tooltip: lab pictures
   - link: News
     tooltip: Musings and miscellany
   - link: contact
