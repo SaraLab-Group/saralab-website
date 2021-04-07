@@ -16,7 +16,7 @@ nav:
   - link: team
     tooltip: About our team
   - link: News
-    tooltip: Musings and miscellany
+    tooltip: Posts and Tweets
   - link: contact
     tooltip: Email, address, and location
 
