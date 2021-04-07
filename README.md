@@ -1,38 +1,36 @@
-<h1 align="center">Lab Website Template</h1>
-<p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
-</p>
-An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel and more time running your lab.
+<h1 align="center">SaraLab Website</h1>
 
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
+## Editing Steps
+1. Clone repository
+2. Make your own branch `git branch <branch name>` & checkout `git checkout <branch name>`
+3. Make changes (add media, change page,etc)  
+   1. media add to `images/respective_folder`
+   2. posts: make new .md file under `_posts`
+   3. resources: add to `_data/resources.yaml`
+   4. research publication: `_data/research.yaml`  (Only need doi and manubot will take of the rest)
+4. Check status `git status`
+5. Add newfiles or untracked changes `git add`
+6. Commit and message `git commit -m "message describing changes"`
+7. git push `git push origin <branch name>`
+8. Checkout the changes to the website 😊
 
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
+## Editing Documentation
 
-## Gallery
+[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
 
-<kbd>
-  <a href="https://user-images.githubusercontent.com/8326331/112500343-acc58480-8d5e-11eb-9795-9592625872fc.png">
-    <img src="https://user-images.githubusercontent.com/8326331/112500343-acc58480-8d5e-11eb-9795-9592625872fc.png" height="150px" alt="Screenshot" />
-  </a>
-</kbd>
+[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
 
-<kbd>
-  <a href="https://greenelab.github.io/lab-website-template/">
-    <img src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" height="150px" alt="Lab Website Template" />
-  </a>
-</kbd>
+[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
 
-<kbd>
-  <a href="https://greenelab.com/">
-    <img src="https://greenelab.com/favicons/share-thumbnail.jpg" height="150px" alt="GreeneLab.com" />
-  </a>
-</kbd>
+[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
 
-more coming soon...
+[🧱 Extra Components](https://github.com/greenelab/lab-website-template/wiki/Extra-Components)
+
+[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
+
+[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
+
+Template based on GreenLab
 
 
 ## Features
@@ -54,20 +52,3 @@ more coming soon...
 - Individual **team member pages** with bios, assignable roles, and social media links
 - A **team** page, compiled automatically from individual members
 
-## Documentation
-
-[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
-
-[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
-
-[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
-
-[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
-
-[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
-
-[🧱 Extra Components](https://github.com/greenelab/lab-website-template/wiki/Extra-Components)
-
-[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
-
-[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
