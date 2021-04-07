@@ -13,8 +13,8 @@ title: Team
 {% include centerer.html contents=contents %}
 <!-- section break -->
 <!-- section dark -->
-<!-- section background images/ece_logo.jpg -->
 
+<!-- section background images/ece_logo.jpg -->
 We are insterested in developing new optical imaging techniques and novel image analysis tools in collaboration. We are always in the lookout for new ideas.
 {%
   include big-link.html
