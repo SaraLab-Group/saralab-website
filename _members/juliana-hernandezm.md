@@ -1,7 +1,7 @@
 ---
 title: Juliana Hernandez
-image: images/members/chris.jpg
-role: tech
+image: images/members/juliana.jpg
+role: masters
 group: alumni
 aliases:
   - J. Hernandez
