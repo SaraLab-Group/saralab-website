@@ -18,7 +18,7 @@ Take a look at all the projects and tools we are currently working on!
 
 {%
   include feature.html
-  image="images/research/m25_diffraction.jpg"
+  image="images/research/m25_diffraction.png"
   link="research"
   text=text
 %}
