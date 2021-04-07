@@ -1,9 +1,9 @@
 # site settings
-title: UCSC SaraLab Group
+title: SaraLab Group
 logo: images/baskin_logo.png
 
 # page defaults
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: Website for the SaraLab Group based on GreenLab Template.
 header: images/m25_banner.jpg
 footer: images/m25_banner.jpg
 
