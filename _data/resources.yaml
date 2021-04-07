@@ -15,3 +15,14 @@
   image: images/research/denoise.png
   description: "One open challenge in microscopy and imaging systems is image reconstruction and denoising of low-light and contrast datasets. The goal of denoising a dataset is to estimate the original data from an acquired noisy dataset by detecting and supressing the noise in the data."
   
+- title: callMakeDistorted
+  group: featured
+  link: https://github.com/SaraLab-Group/MFM/blob/main/callMakeDistortedSliced.m
+  description: Distortion algorithm for diffractive optical element to change wavefronts for refocusing.
+  repo: https://github.com/SaraLab-Group/MFM
+  
+- title: pixelFlipper
+  group: featured
+  link: https://github.com/SaraLab-Group/MFM/blob/main/pixelflipGeneralImageBinary.m
+  description: This program makes a matrix m (random guess) representing a diffractive phase grating. We optimize m to conform to a target function, by stepping through pixel in random order.
+  repo: https://github.com/SaraLab-Group/MFM
