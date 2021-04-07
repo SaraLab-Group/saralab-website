@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: News
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>News
 
 {% include blog-list.html %}
 
