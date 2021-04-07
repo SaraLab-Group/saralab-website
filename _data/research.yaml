@@ -8,7 +8,7 @@
       link: https://www.nature.com/articles/s41566-020-0656-3
 
 - id: doi:10.1117/12.2550979
-  image: https://www.spiedigitallibrary.org/images/Global/SPIE_DL_Logo_Nav.png
+  image: images/research/m25.jpg
   tags:
     - multifocus
     - fluorescence microscopy
@@ -25,7 +25,8 @@
   extra-links:
     - type: Source
       link: https://ieeexplore.ieee.org/abstract/document/8747331
-      
+
+{% comment %}
 - id: doi:10.1364/CLEO_AT.2020.JW3P.4
   image: https://www.osapublishing.org/abstract.cfm?uri=CLEO_AT-2020-JW3P.4
   tags:
@@ -35,3 +36,4 @@
   extra-links:
     - type: Source
       link: https://www.osapublishing.org/abstract.cfm?uri=CLEO_AT-2020-JW3P.4
+{% endcomment %}
