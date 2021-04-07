@@ -20,7 +20,6 @@ Take a look at all the projects and tools we are currently working on!
   include feature.html
   image="images/research/m25_diffraction.jpg"
   link="research"
-  title="Our Research"
   text=text
 %}
 
@@ -35,7 +34,6 @@ Take a look at our publishe resources for building microscopes and other tools!
   include feature.html
   image="images/research/code.jpg"
   link="resources"
-  title="Our Resources"
   text=text
 %}
 
@@ -49,7 +47,6 @@ We are a team of engineers and scientists working in this interdisciplinary fiel
   include feature.html
   image="images/group/group.jpg"
   link="team"
-  title="Our Team"
   text=text
 %}
 
