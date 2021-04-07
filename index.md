@@ -11,8 +11,7 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Take a look at all the projects and tools we are currently working on!
 
 [See what we've published &nbsp;→](research)
 {:.center}
@@ -35,22 +34,21 @@ Take a look at our publishe resources for building microscopes and other tools!
 
 {%
   include feature.html
-  image="images/code.jpeg"
+  image="images/research/code.jpeg"
   link="resources"
   title="Our Resources"
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We are a team of engineers and scientists working in this interdisciplinary field pushing the limits of live 3D imaging. 
 [Meet our team &nbsp;→](team)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group/group.jpg"
   link="team"
   title="Our Team"
   text=text
