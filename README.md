@@ -50,4 +50,6 @@
 - Individual **team member pages** with bios, assignable roles, and social media links
 - A **team** page, compiled automatically from individual members
 
-<h4 align="center">Template based on [GreenLab](https://github.com/greenelab/lab-website-template)</h4>
+<div align="center">
+#### Template based on [GreenLab](https://github.com/greenelab/lab-website-template) 
+</div>
