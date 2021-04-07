@@ -42,8 +42,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  fit="false"
-
   image1="images/funding/nsf.jpg"
   link1="https://www.nsf.gov/policies/logos.jsp"
   tooltip1="National Science Foundation"
