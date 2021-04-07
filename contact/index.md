@@ -17,7 +17,8 @@ We are located on the 2nd floor of the Baskin Engineering Building.
 
 <!-- section break -->
 ### Email
-[sara[at]ucsc[dot]edu](mailto:sara@ucsc.edu)
+[Sara Abrahamsson](https://www.soe.ucsc.edu/people/saraabrahamsson)  
+Assistant Professor, Electrical and Computer Engineering
 {:.center}
 
 ### Location
