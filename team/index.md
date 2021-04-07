@@ -6,8 +6,8 @@ title: Team
 <!-- section break -->
 {% capture contents %}
 {% include team-list.html role="pi" %}
-{% include team-list.html role="phd" %}
-{% include team-list.html role="programmer" %}
+{% include team-list.html role="phd" group="" %}
+{% include team-list.html role="programmer" group="" %}
 {% endcapture %}
 
 {% include centerer.html contents=contents %}
@@ -20,7 +20,7 @@ We are insterested in developing new optical imaging techniquesand novel image a
   include big-link.html
   icon="fas fa-hands-helping"
   text="Join the Team"
-  link="join"
+  link= mailto:sara@ucsc.edu
   button=true
 %}{:.center}
 <!-- section break -->
