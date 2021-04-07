@@ -20,7 +20,7 @@ We are insterested in developing new optical imaging techniquesand novel image a
   include big-link.html
   icon="fas fa-hands-helping"
   text="Join the Team"
-  link="join"
+  link= mailto:sara@ucsc.edu
   button=true
 %}{:.center}
 <!-- section break -->
