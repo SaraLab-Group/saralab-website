@@ -8,7 +8,7 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
 
 {%
   include figure.html
-  image="images/group-photo.jpg"
+  image="images/group/group.jpg"
   caption="SaraLab"
   link="team"
   width="500px"
