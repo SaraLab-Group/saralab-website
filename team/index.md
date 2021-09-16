@@ -7,6 +7,7 @@ title: Team
 {% capture contents %}
 {% include team-list.html role="pi" %}
 {% include team-list.html role="phd" group="" %}
+{%include team-list.html role="master" group="" %}
 {% include team-list.html role="programmer" group="" %}
 {% endcapture %}
 
@@ -23,6 +24,7 @@ We are insterested in developing new optical imaging techniques and novel image 
   link= "mailto:sara@ucsc.edu"
   button=true
 %}{:.center}
+
 <!-- section break -->
 ## Collaborators
 {% capture collaborators %}
