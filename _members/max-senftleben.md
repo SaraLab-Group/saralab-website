@@ -1,8 +1,8 @@
 ---
 title: Maximilian Senftleben
 image: images/members/max.jpg
-role: phd
-group: alumni
+role: collaborator
+group: collaborator
 aliases:
   - M.Senftleben
 ---
