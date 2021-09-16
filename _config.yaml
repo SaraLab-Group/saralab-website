@@ -27,7 +27,7 @@ github: SaraLab-Group
 twitter: FourierPower
 
 # base directory where site is hosted
-baseurl: /saralab-website
+baseurl: "/"
 
 # default front matter parameters for markdown files
 defaults:
