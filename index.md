@@ -6,10 +6,17 @@ title: Home
 
 New discovery in Biology and Medicine is strongly driven by new possibilities to visualize the processes of life. To see new things, the SaraLab lab invents and **custom builds new types of optical elements and imaging systems**. Specific problems in Biology demand that we push technology to the limit in terms of both spatial and temporal resolution. We focus our work on harnessing the power of diffractive **Fourier optics in microscopy**. This involves design and hands-on nanofabrication of diffractive optics elements for simultaneous 3D imaging using [**Multifocus microscopy**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161287/) and [**super-resolution microscopy**](https://www.osapublishing.org/DirectPDFAccess/C653C23B-C7CA-4F5F-B35C1D7A25981F71_370746/boe-8-9-4135.pdf?da=1&id=370746&seq=0&mobile=no).
 
-<img src="{{ site.baseurl }}images/celegans.gif" alt="sim" width="300" height="300" title ="5x5 C.elegans">
-<img src="{{ site.baseurl }}images/mfm_sim.gif" alt="sim" width="300" height="360" title ="MF-SIM">
-<img src="{{ site.baseurl }}/images/transcription.gif" alt="transcription" width="300" height="300" title="Transcription">
-
+<img src="{{ site.baseurl }}images/celegans.gif" alt="celegans" width="300" height="300" title ="5x5 C.elegans">
+<img src="{{ site.baseurl }}images/mfm_sim.gif" alt="mf-sim" width="300" height="300" title ="MF-SIM">
+<img src="{{ site.baseurl }}images/transcription.gif" alt="transcription" width="300" height="300" title="Transcription">
+{%
+  include gallery.html
+  image1="images/celegans.gif"
+  tooltip2="GCaMP Activity in Celegans Muscle Cells"
+  image2="images/mfm_sim.gif"
+  tooltip2="Multi-Focus Microscopy Structured Illumination"
+  image3 ="images/transcription.fig"
+  tooltip3 = "Yeast Transcription 3D Simulatenous"
 {%
   include figure.html
   image="images/group/group.jpg"
