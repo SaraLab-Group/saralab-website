@@ -12,19 +12,12 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
   tooltip2="GCaMP Activity in Celegans Muscle Cells"
   image2="images/mfm_sim.gif"
   tooltip2="Multi-Focus Microscopy Structured Illumination"
-  image3 ="images/transcription.fig"
+  image3 ="images/transcription.gif"
   tooltip3 = "Yeast Transcription 3D Simulatenous"
  %}
  
-{%
-  include figure.html
-  image="images/group/group.jpg"
-  caption="SaraLab"
-  link="team"
-  width="800px"
-%}
-
 <!-- section break -->
+
 # Highlights
 
 {% capture text %}
@@ -68,6 +61,14 @@ We are a team of engineers and scientists working in this interdisciplinary fiel
 %}
 
 <!-- section break -->
+
+{%
+  include figure.html
+  image="images/group/group.jpg"
+  caption="SaraLab"
+  link="team"
+  width="800px"
+%}
 
 <!-- section full -->
 
