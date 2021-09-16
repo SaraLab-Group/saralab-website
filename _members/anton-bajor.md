@@ -1,6 +1,6 @@
 ---
 title: Antone A. bajor
-image: images/members/anton.jpg
+image: images/members/antone.jpg
 role: master
 group: 
 aliases:
