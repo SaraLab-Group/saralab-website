@@ -10,10 +10,13 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
   include gallery.html
   image1="images/celegans.gif"
   tooltip1="GCaMP Activity in Celegans Muscle Cells"
+  link1 = "/research"
   image2="images/mfm_sim.gif"
   tooltip2="Multi-Focus Microscopy Structured Illumination"
+  link2 = "/research"
   image3 ="images/transcription.gif"
   tooltip3 = "Yeast Transcription 3D Simulatenous"
+  link3 = "/research"
  %}
  
 <!-- section break -->
