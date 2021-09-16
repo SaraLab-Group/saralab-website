@@ -9,7 +9,7 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
 {%
   include gallery.html
   image1="images/celegans.gif"
-  tooltip2="GCaMP Activity in Celegans Muscle Cells"
+  tooltip1="GCaMP Activity in Celegans Muscle Cells"
   image2="images/mfm_sim.gif"
   tooltip2="Multi-Focus Microscopy Structured Illumination"
   image3 ="images/transcription.gif"
