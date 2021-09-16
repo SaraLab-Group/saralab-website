@@ -24,6 +24,12 @@ We are insterested in developing new optical imaging techniques and novel image 
   button=true
 %}{:.center}
 <!-- section break -->
+## Collaborators
+{% capture collaborators %}
+{%include team-list.html role="collaborator" group="collaborator" mini=true%}
+{% endcapture %}
+{% include centerer.html contents=collaborators %}
+<!-- section break -->
 
 ## Alumni
 {% capture alumni %}
