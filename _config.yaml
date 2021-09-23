@@ -19,7 +19,7 @@ nav:
     tooltip: Posts and Tweets
   - link: contact
     tooltip: Email, address, and location
-  - link: Donate
+  - link: donate
     tooltip: Donate Link
 
 # site social media
