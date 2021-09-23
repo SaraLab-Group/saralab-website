@@ -26,7 +26,7 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
   image="images/donate.png"
   link="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=780&cid=1749&dids=1096"
   title=Donate
-  width="400px"
+  width="200px"
 %}
 <!-- section break -->
 
