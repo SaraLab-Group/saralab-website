@@ -19,9 +19,7 @@ nav:
     tooltip: Posts and Tweets
   - link: contact
     tooltip: Email, address, and location
-  - link: donate
-    tooltip: Donate Link
-
+    
 # site social media
 email: sara@ucsc.edu
 google-scholar: Sara Abrahamsson
