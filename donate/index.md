@@ -2,8 +2,6 @@
 title: Donate
 ---
 # <i class="fas fa-envelope"></i>Support the SaraLab Science
-
-# Support the SaraLab Science
 {%
   include figure.html
   image="images/donate.png"
@@ -11,6 +9,5 @@ title: Donate
   title=Donate
   width="200px"
 %}
-
 {:.center}
 <!-- section break -->
