@@ -19,8 +19,8 @@ nav:
     tooltip: Posts and Tweets
   - link: contact
     tooltip: Email, address, and location
-  - link: [donate](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=780&cid=1749&dids=1096)
-    
+  - link: donate
+    tooltip: Support the Saralab Science
 # site social media
 email: sara@ucsc.edu
 google-scholar: Sara Abrahamsson
