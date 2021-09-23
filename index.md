@@ -20,7 +20,7 @@ New discovery in Biology and Medicine is strongly driven by new possibilities to
  %}
  
 <!-- section break -->
-# Donate to Science
+# Support the SaraLab Science
 {%
   include figure.html
   image="images/donate.png"
